@@ -1,0 +1,43 @@
+12:19:12 **** Incremental Build of configuration Debug for project ASalvo ****
+make all 
+'Building file: ../sol.cpp'
+'Invoking: Cross G++ Compiler'
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"sol.d" -MT"sol.o" -o "sol.o" "../sol.cpp"
+'Finished building: ../sol.cpp'
+' '
+'Building target: ASalvo'
+'Invoking: Cross G++ Linker'
+g++  -o "ASalvo"  ./sol.o   
+'Finished building target: ASalvo'
+' '
+12:19:13 **** Incremental Build of configuration Debug for project ASalvo ****
+make all 
+'Building target: ASalvo'
+'Invoking: Cross G++ Linker'
+g++  -o "ASalvo"  ./sol.o   
+'Finished building target: ASalvo'
+' '
+12:20:23 **** Incremental Build of configuration Debug for project ASalvo ****
+make all 
+'Building file: ../sol.cpp'
+'Invoking: Cross G++ Compiler'
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"sol.d" -MT"sol.o" -o "sol.o" "../sol.cpp"
+'Finished building: ../sol.cpp'
+' '
+'Building target: ASalvo'
+'Invoking: Cross G++ Linker'
+g++  -o "ASalvo"  ./sol.o   
+'Finished building target: ASalvo'
+' '
+12:20:33 **** Incremental Build of configuration Debug for project ASalvo ****
+make all 
+'Building file: ../sol.cpp'
+'Invoking: Cross G++ Compiler'
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"sol.d" -MT"sol.o" -o "sol.o" "../sol.cpp"
+'Finished building: ../sol.cpp'
+' '
+'Building target: ASalvo'
+'Invoking: Cross G++ Linker'
+g++  -o "ASalvo"  ./sol.o   
+'Finished building target: ASalvo'
+' '

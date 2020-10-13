@@ -1,0 +1,10 @@
+13:33:15 **** Incremental Build of configuration Debug for project Simetrico ****
+make all 
+'Building target: Simetrico'
+'Invoking: Cross G++ Linker'
+g++  -o "Simetrico"  ./sol.o   
+'Finished building target: Simetrico'
+' '
+
+13:33:15 Build Finished. 0 errors, 0 warnings. (took 352ms)
+

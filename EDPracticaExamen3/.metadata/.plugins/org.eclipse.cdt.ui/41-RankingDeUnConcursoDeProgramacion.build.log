@@ -1,0 +1,10 @@
+15:49:42 **** Incremental Build of configuration Debug for project 41-RankingDeUnConcursoDeProgramacion ****
+make all 
+'Building target: 41-RankingDeUnConcursoDeProgramacion'
+'Invoking: Cross G++ Linker'
+g++  -o "41-RankingDeUnConcursoDeProgramacion"  ./sol.o   
+'Finished building target: 41-RankingDeUnConcursoDeProgramacion'
+' '
+
+15:49:43 Build Finished. 0 errors, 0 warnings. (took 917ms)
+

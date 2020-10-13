@@ -1,0 +1,10 @@
+16:13:37 **** Incremental Build of configuration Debug for project Frontera ****
+make all 
+'Building target: Frontera'
+'Invoking: Cross G++ Linker'
+g++  -o "Frontera"  ./sol.o   
+'Finished building target: Frontera'
+' '
+
+16:13:37 Build Finished. 0 errors, 0 warnings. (took 420ms)
+

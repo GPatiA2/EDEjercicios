@@ -1,0 +1,15 @@
+15:47:20 **** Incremental Build of configuration Debug for project 38-ActualizacionDeUnDiccionario ****
+make all 
+'Building file: ../sol.cpp'
+'Invoking: Cross G++ Compiler'
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"sol.d" -MT"sol.o" -o "sol.o" "../sol.cpp"
+'Finished building: ../sol.cpp'
+' '
+'Building target: 38-ActualizacionDeUnDiccionario'
+'Invoking: Cross G++ Linker'
+g++  -o "38-ActualizacionDeUnDiccionario"  ./sol.o   
+'Finished building target: 38-ActualizacionDeUnDiccionario'
+' '
+
+15:47:22 Build Finished. 0 errors, 0 warnings. (took 1s.178ms)
+

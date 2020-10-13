@@ -1,0 +1,15 @@
+14:23:26 **** Incremental Build of configuration Debug for project ArbolGenealogico ****
+make all 
+'Building file: ../sol.cpp'
+'Invoking: Cross G++ Compiler'
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"sol.d" -MT"sol.o" -o "sol.o" "../sol.cpp"
+'Finished building: ../sol.cpp'
+' '
+'Building target: ArbolGenealogico'
+'Invoking: Cross G++ Linker'
+g++  -o "ArbolGenealogico"  ./sol.o   
+'Finished building target: ArbolGenealogico'
+' '
+
+14:23:27 Build Finished. 0 errors, 0 warnings. (took 1s.9ms)
+

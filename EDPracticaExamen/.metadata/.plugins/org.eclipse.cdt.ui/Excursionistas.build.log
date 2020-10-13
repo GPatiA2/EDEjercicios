@@ -1,0 +1,10 @@
+12:55:24 **** Incremental Build of configuration Debug for project Excursionistas ****
+make all 
+'Building target: Excursionistas'
+'Invoking: Cross G++ Linker'
+g++  -o "Excursionistas"  ./sol.o   
+'Finished building target: Excursionistas'
+' '
+
+12:55:24 Build Finished. 0 errors, 0 warnings. (took 351ms)
+

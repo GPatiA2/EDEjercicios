@@ -1,0 +1,14 @@
+alta sector3
+alta sector2
+datos sector2 pulgon
+datos sector3 cochinilla
+datos sector2 cochinilla
+fumigar pulgon
+datos sector3 cochinilla
+fumigar cochinilla
+datos sector2 cochinilla
+fumigar cochinilla
+plagas sector3
+datos sector2 pulgon
+plagas sector2
+FIN

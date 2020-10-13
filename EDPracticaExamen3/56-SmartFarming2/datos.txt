@@ -1,0 +1,34 @@
+alta sector3 100
+alta sector2 200
+datos sector2 pulgon 100
+datos sector2 cochinilla 20
+datos sector3 cochinilla 50
+fumigar
+datos sector2 cochinilla 500
+datos sector2 cochinilla 100
+datos sector3 pulgon 50
+fumigar
+alta sector3 50
+datos sector3 cochinilla 120
+plagas sector3
+plagas sector2
+fumigar
+FIN
+alta sector1 100
+alta sector2 200
+plagas sector1
+plagas sector2
+datos sector2 pulgon 25
+plagas sector2
+datos sector2 pulgon 75
+plagas sector2
+fumigar
+plagas sector2
+datos sector2 pulgon 25
+plagas sector2
+datos sector2 cochinilla 25
+plagas sector2
+fumigar
+FIN
+fumigar
+FIN

@@ -1,0 +1,10 @@
+12:05:36 **** Incremental Build of configuration Debug for project 51-VentaDeLibrosPorInternet ****
+make all 
+'Building target: 51-VentaDeLibrosPorInternet'
+'Invoking: Cross G++ Linker'
+g++  -o "51-VentaDeLibrosPorInternet"  ./sol.o   
+'Finished building target: 51-VentaDeLibrosPorInternet'
+' '
+
+12:05:36 Build Finished. 0 errors, 0 warnings. (took 347ms)
+

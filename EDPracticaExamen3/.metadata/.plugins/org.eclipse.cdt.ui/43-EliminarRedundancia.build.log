@@ -1,0 +1,10 @@
+12:06:50 **** Incremental Build of configuration Debug for project 43-EliminarRedundancia ****
+make all 
+'Building target: 43-EliminarRedundancia'
+'Invoking: Cross G++ Linker'
+g++  -o "43-EliminarRedundancia"  ./sol.o   
+'Finished building target: 43-EliminarRedundancia'
+' '
+
+12:06:50 Build Finished. 0 errors, 0 warnings. (took 350ms)
+

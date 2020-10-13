@@ -1,0 +1,11 @@
+11:15:08 **** Clean-only build of configuration Debug for project Minimo de un arbol ****
+make clean 
+rm -rf  ./sol.o  ./sol.d  "Minimo de un arbol"
+"rm" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+makefile:52: recipe for target 'clean' failed
+make: [clean] Error 1 (ignored)
+' '
+
+11:15:10 Build Failed. 1 errors, 0 warnings. (took 2s.97ms)
+

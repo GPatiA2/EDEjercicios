@@ -1,0 +1,10 @@
+16:06:23 **** Incremental Build of configuration Debug for project 39-ReferenciasCruzadas ****
+make all 
+'Building target: 39-ReferenciasCruzadas'
+'Invoking: Cross G++ Linker'
+g++  -o "39-ReferenciasCruzadas"  ./sol.o   
+'Finished building target: 39-ReferenciasCruzadas'
+' '
+
+16:06:23 Build Finished. 0 errors, 0 warnings. (took 398ms)
+

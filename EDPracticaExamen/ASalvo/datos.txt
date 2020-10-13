@@ -1,0 +1,12 @@
+11
+M C D C . . . M D . . C . . M . D C . . C . .
+* . D * . . M . .
+D C M . . * . . .
+* * * . . * . . * * . . * . .
+C D M . . D . . D D . . M . .
+M D C . . D . . D D . . C . .
+D D D . . D . . D D . . D . .
+M D C . . C . . D C . . C . .
+* . M . M D C C . . M . . * . . .
+M . M . M D C C . . M . . * . . .
+* . M . * D C C . . M . . * . . .

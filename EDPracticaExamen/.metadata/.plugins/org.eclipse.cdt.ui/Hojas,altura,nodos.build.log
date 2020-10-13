@@ -1,0 +1,10 @@
+13:47:11 **** Incremental Build of configuration Debug for project Hojas,altura,nodos ****
+make all 
+'Building target: Hojas,altura,nodos'
+'Invoking: Cross G++ Linker'
+g++  -o "Hojas,altura,nodos"  ./sol.o   
+'Finished building target: Hojas,altura,nodos'
+' '
+
+13:47:12 Build Finished. 0 errors, 0 warnings. (took 411ms)
+
