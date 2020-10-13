@@ -1,0 +1,88 @@
+addSong HumanTouch BruceSpringsteen 392
+addSong BornToRun BruceSpringsteen 270
+addToPlaylist BornToRun
+addToPlaylist HumanTouch
+play
+totalTime
+addSong LuckyTown BruceSpringsteen 207
+addToPlaylist LuckyTown
+play
+play
+deleteSong HumanTouch
+recent 2
+FIN
+play
+current
+FIN
+addSong HimnoDeEspaña FranciscoFranco 3
+addToPlaylist HimnoDeEspaña
+totalTime
+play
+recent 1
+addSong Catalufo Torra 5
+addToPlaylist Catalufo
+totalTime
+recent 1
+play
+recent 1
+FIN
+current
+play
+recent 2
+deleteSong Yongolongo
+addSong porro potro 45
+addSong porro potro 45
+FIN
+addSong Cumbia Yayo 4
+addToPlaylist Cumbia
+deleteSong Cumbia
+recent 2
+FIN
+addSong Cumbia Yayo 4
+current
+addToPlaylist Cumbia
+current
+totalTime
+FIN
+play
+play
+current
+addSong HumanTouch PepeCarlos 3
+addToPlaylist HumanTouch
+play
+current
+play
+current
+FIN
+addToPlaylist HumanTouch
+recent 2
+addSong HumanTouch PepeCarlos 3
+addSong HumanTouch PepeCarlos 3
+play
+recent 1
+recent 30
+addToPlaylist HumanTouch
+play
+recent 1
+recent 30
+deleteSong HumanTouch
+play
+recent 2
+FIN
+addSong Ramona Roncero 3
+current
+addToPlaylist Ramona
+current
+play
+current
+FIN
+current
+addSong S1 A1 3
+current
+addToPlaylist S1
+current
+addSong S2 A2 34
+current
+play
+current
+FIN

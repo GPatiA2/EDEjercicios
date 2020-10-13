@@ -1,0 +1,65 @@
+12
+nuevoMedico Hernandez
+nuevoMedico Alvarez
+pideConsulta Ana Alvarez 16 12:30
+pideConsulta Antonio Alvarez 16 11:45
+pideConsulta Alvaro Alvarez 17 10:00
+pideConsulta Alba Alvarez 17 10:15
+pideConsulta Anacleto Alvarez 17 10:55
+listaPacientes Alvarez 16
+siguientePaciente Alvarez
+atiendeConsulta Alvarez
+listaPacientes Alvarez 16
+listaPacientes Alvarez 17
+6
+nuevoMedico Hernandez
+pideConsulta Alvarez Ana 16 12:30
+pideConsulta Helena Hernandez 17 10:00
+atiendeConsulta Hernandez
+listaPacientes Hernandez 17
+atiendeConsulta Hernandez
+7
+siguientePaciente Luis
+atiendeConsulta Luis
+listaPacientes Luis 12 
+nuevoMedico Luis
+siguientePaciente Luis
+atiendeConsulta Luis
+listaPacientes Luis 12
+11
+siguientePaciente Luis
+atiendeConsulta Luis
+listaPacientes Luis 13
+nuevoMedico Luis
+siguientePaciente Luis
+atiendeConsulta Luis
+listaPacientes Luis 13
+pideConsulta Carlos Luis 13 12:30
+siguientePaciente Luis
+atiendeConsulta Luis
+listaPacientes Luis 13
+10
+nuevoMedico Jose
+pideConsulta Arnoldo Jose 17 18:30
+listaPacientes Jose 17
+siguientePaciente Jose
+atiendeConsulta Jose
+pideConsulta Caco Jose 17 18:40
+siguientePaciente Jose
+listaPacientes Jose 17
+atiendeConsulta Jose
+listaPacientes Jose 17
+13
+nuevoMedico Pepe
+pideConsulta Antonio Pepe 17 18:30
+pideConsulta Antonio Pepe 18 18:30
+siguientePaciente Pepe
+listaPacientes Pepe 17
+listaPacientes Pepe 18
+atiendeConsulta Pepe
+listaPacientes Pepe 17
+listaPacientes Pepe 18
+atiendeConsulta Pepe
+listaPacientes Pepe 17
+listaPacientes Pepe 18
+siguientePaciente Pepe

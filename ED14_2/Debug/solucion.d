@@ -1,0 +1,1 @@
+solucion.o: ../solucion.cpp
